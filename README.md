@@ -1,2 +1,2 @@
-# vite-ts-template
-vite基础模板
+# vite-quick-template
+vite快速启动模板
