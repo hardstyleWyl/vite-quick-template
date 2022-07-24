@@ -1,5 +1,17 @@
 # vite-quick-template
 vite快速启动模板
+
+### init
+
 ```bash
-yarn
+//yarn
+yarn 
+//npm 
+npm i
+```
+
+### run
+
+```
+vite
 ```
