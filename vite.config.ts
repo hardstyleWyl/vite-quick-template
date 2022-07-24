@@ -62,5 +62,11 @@ export default defineConfig({
             }
         }
         //清除console和debugger结束
+    },
+    resolve: {
+        //设置路径别名
+        alias: {
+            '@': `${ __dirname }/src`
+        }
     }
 })
