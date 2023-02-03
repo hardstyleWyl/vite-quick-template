@@ -12,6 +12,6 @@ npm i
 
 ### run
 
-```
+```bash
 vite
 ```
